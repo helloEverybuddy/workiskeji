@@ -1,115 +1,115 @@
-### ÌáÊ¾£ºUUIDÇëÊ¹ÓÃUUIDÉú³ÉÆ÷£¬ÍÆ¼ö[UUID Generator](https://www.uuidgenerator.net/)
+### æç¤ºï¼šUUIDè¯·ä½¿ç”¨UUIDç”Ÿæˆå™¨ï¼Œæ¨è[UUID Generator](https://www.uuidgenerator.net/)
 
-### ÌáĞÑ£ºÀÄÓÃ¿ÉÄÜµ¼ÖÂÕË»§±»É¾³ı£¡£¡£¡
+### æé†’ï¼šæ»¥ç”¨å¯èƒ½å¯¼è‡´è´¦æˆ·è¢«åˆ é™¤ï¼ï¼ï¼
 
-### ÌáĞÑ£ºÅäÖÃÁ¬½Ó·½Ê½Ê±Çë×ĞÏ¸ÔÄ¶Á´ø´ÖÌåµÄ×¢ÒâÊÂÏî! ! !
+### æé†’ï¼šé…ç½®è¿æ¥æ–¹å¼æ—¶è¯·ä»”ç»†é˜…è¯»å¸¦ç²—ä½“çš„æ³¨æ„äº‹é¡¹! ! !
 
-### ÇëÖ®Ç°ÒÑ¾­fork¹ıµÄÓÃ»§É¾³ıÏîÄ¿ºóÖØĞÂfork±¾ÏîÄ¿! ! !
+### è¯·ä¹‹å‰å·²ç»forkè¿‡çš„ç”¨æˆ·åˆ é™¤é¡¹ç›®åé‡æ–°forkæœ¬é¡¹ç›®! ! !
 
-### ÒÑ»Ö¸´Vmess¡¢VLESS¡¢Trojan¡¢ShadowsocksµÄËùÓĞÁ¬½Ó! ! !
+### å·²æ¢å¤Vmessã€VLESSã€Trojanã€Shadowsocksçš„æ‰€æœ‰è¿æ¥! ! !
 
-### Ïë¸ÄÆäËû´«ÊäĞ­ÒéµÄÇë²Î¿¼[HTTPÂ·ÓÉ/HTTPÖ§³Ö°æ±¾](https://devcenter.heroku.com/articles/http-routing#http-versions-supported)È»ºó×ÃÇéĞŞ¸Ä£¬½öÏŞÓĞ¾­ÑéÓÃ»§ĞŞ¸Ä£¬ÒòĞŞ¸Ä´«ÊäĞ­Òé³öÏÖÁ¬½Ó´íÎóµÄ±¾ÏîÄ¿²»³Ğµ£ÈÎºÎÔğÈÎ£¡£¡£¡
+### æƒ³æ”¹å…¶ä»–ä¼ è¾“åè®®çš„è¯·å‚è€ƒ[HTTPè·¯ç”±/HTTPæ”¯æŒç‰ˆæœ¬](https://devcenter.heroku.com/articles/http-routing#http-versions-supported)ç„¶åé…Œæƒ…ä¿®æ”¹ï¼Œä»…é™æœ‰ç»éªŒç”¨æˆ·ä¿®æ”¹ï¼Œå› ä¿®æ”¹ä¼ è¾“åè®®å‡ºç°è¿æ¥é”™è¯¯çš„æœ¬é¡¹ç›®ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ï¼ï¼ï¼
 
-## ·şÎñ¶Ë´´½¨²Ù×÷Á÷³Ì
+## æœåŠ¡ç«¯åˆ›å»ºæ“ä½œæµç¨‹
 
-0.¸ø±¾ÏîÄ¿¸östars
+0.ç»™æœ¬é¡¹ç›®ä¸ªstars
 
-1.½«±¾ÏîÄ¿forkÖÁ×Ô¼º²Ö¿âĞŞ¸Ä`Deploy to Heroku`°´¼üÖ¸ÏòµØÖ·Îª×Ô¼º²Ö¿âµØÖ·
+1.å°†æœ¬é¡¹ç›®forkè‡³è‡ªå·±ä»“åº“ä¿®æ”¹`Deploy to Heroku`æŒ‰é”®æŒ‡å‘åœ°å€ä¸ºè‡ªå·±ä»“åº“åœ°å€
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/helloEverybuddy/
-firstfile ) 
+workiskeji) 
 
-2.µã»÷ÉÏÃæ×ÏÉ«`Deploy to Heroku`£¬»áÌø×ªµ½heroku app´´½¨Ò³Ãæ£¬Ó¦ÓÃ³ÌĞòÃûÎŞĞèÌîĞ´Ò²ÄÜ´´½¨£¬Ãû×Ö»áÓÉherokuËæ»úÉú³É£¬Ñ¡Ôñ½Úµã£¨ÃÀ¹ú»òÕßÅ·ÖŞ£©£¬ĞÂÓÃ»§Ö»ĞèÒª×Ô¶¨ÒåUUIDÂëºÍCADDYIndexPage£¨²Î¿¼£º[CaddyÖ÷Ò³ÅäÖÃ](https://github.com/helloEverybuddy/firstfile /blob/master/README.md#5caddy%E4%B8%BB%E9%A1%B5%E9%85%8D%E7%BD%AE))£¬ÆäËû½¨Òé±£³ÖÄ¬ÈÏ£¬µã»÷ÏÂÃædeploy£¬¼¸Ãëºó¸ã¶¨£¡   
+2.ç‚¹å‡»ä¸Šé¢ç´«è‰²`Deploy to Heroku`ï¼Œä¼šè·³è½¬åˆ°heroku appåˆ›å»ºé¡µé¢ï¼Œåº”ç”¨ç¨‹åºåæ— éœ€å¡«å†™ä¹Ÿèƒ½åˆ›å»ºï¼Œåå­—ä¼šç”±herokuéšæœºç”Ÿæˆï¼Œé€‰æ‹©èŠ‚ç‚¹ï¼ˆç¾å›½æˆ–è€…æ¬§æ´²ï¼‰ï¼Œæ–°ç”¨æˆ·åªéœ€è¦è‡ªå®šä¹‰UUIDç å’ŒCADDYIndexPageï¼ˆå‚è€ƒï¼š[Caddyä¸»é¡µé…ç½®](https://github.com/helloEverybuddy/workiskeji/blob/master/README.md#5caddy%E4%B8%BB%E9%A1%B5%E9%85%8D%E7%BD%AE))ï¼Œå…¶ä»–å»ºè®®ä¿æŒé»˜è®¤ï¼Œç‚¹å‡»ä¸‹é¢deployï¼Œå‡ ç§’åæå®šï¼   
 
-3.Èô³öÏÖ`We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.`ÌáÊ¾£¬Ôò·µ»Ø²Ö¿â£¬>`Setting`>`Repository name`ĞŞ¸Ä²Ö¿âÃû¡£
+3.è‹¥å‡ºç°`We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy.`æç¤ºï¼Œåˆ™è¿”å›ä»“åº“ï¼Œ>`Setting`>`Repository name`ä¿®æ”¹ä»“åº“åã€‚
 
-4.ÈôÖ´ĞĞÁËµÚ3²½ĞŞ¸Ä²Ö¿âÃûµÄ²Ù×÷£¬Ôò±ØĞëĞŞ¸Äapp.jsonÖĞµÄnameºÍdescription£¬Ê®·ÖÖØÒª£¬ÇĞ¼Ç£¡£¡£¡£¡
+4.è‹¥æ‰§è¡Œäº†ç¬¬3æ­¥ä¿®æ”¹ä»“åº“åçš„æ“ä½œï¼Œåˆ™å¿…é¡»ä¿®æ”¹app.jsonä¸­çš„nameå’Œdescriptionï¼Œååˆ†é‡è¦ï¼Œåˆ‡è®°ï¼ï¼ï¼ï¼
 
-5.×¢Òâ`repository`±ØĞëÁô¿ÕÒÔÃâÏîÄ¿±»½û
+5.æ³¨æ„`repository`å¿…é¡»ç•™ç©ºä»¥å…é¡¹ç›®è¢«ç¦
 
-6.ÔÙĞŞ¸Ä`Deploy to Heroku`°´¼üÖ¸ÏòµØÖ·Îª×Ô¼º²Ö¿âµØÖ·£¬ÖØ¸´`2`µÄ²Ù×÷
+6.å†ä¿®æ”¹`Deploy to Heroku`æŒ‰é”®æŒ‡å‘åœ°å€ä¸ºè‡ªå·±ä»“åº“åœ°å€ï¼Œé‡å¤`2`çš„æ“ä½œ
 
-7.´øÓĞÉ¾³ıÏßµÄ²¿·Ö±íÊ¾ÒÑ¾­·ÏÆú»ò²»ÊÊÓÃ
+7.å¸¦æœ‰åˆ é™¤çº¿çš„éƒ¨åˆ†è¡¨ç¤ºå·²ç»åºŸå¼ƒæˆ–ä¸é€‚ç”¨
 
-## vmess vless trojan-go shadowsocks¶ÔÓ¦¿Í»§¶Ë²ÎÊıµÄ²Î¿¼ÈçÏÂ,Ä©Î²´ø()ÀïµÄÄÚÈİ½öÎªÌáÊ¾
+## vmess vless trojan-go shadowsockså¯¹åº”å®¢æˆ·ç«¯å‚æ•°çš„å‚è€ƒå¦‚ä¸‹,æœ«å°¾å¸¦()é‡Œçš„å†…å®¹ä»…ä¸ºæç¤º
 
-## 1£ºXray Vmess/VLESS ws+tls
+## 1ï¼šXray Vmess/VLESS ws+tls
 
-|**ÊôĞÔ**|**¶ÔÓ¦Öµ**|
+|**å±æ€§**|**å¯¹åº”å€¼**|
 |:------:|:---------:|
-|**´úÀíĞ­Òé**|VLESS+ws+tls</br>Vmess+ws+tls|
-|·şÎñÆ÷µØÖ·|×ÔÑ¡ip£¨Èç£º`uicdn.cf`»ò`icook.tw`£©</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|¶Ë¿Ú|443|
-|Ä¬ÈÏUUID|8f91b6a0-e8ee-11ea-adc1-0242ac120002</br>**×¢Òâ£ºÎñ±Ø´´½¨Ê±×Ô¶¨ÒåUUIDÂë**|
-|¼ÓÃÜ|Vmess: Auto</br>VLESS: none</br>**×¢Òâ£ºVmessÄ¬ÈÏ½ûÖ¹ÒÔÏÂ¼ÓÃÜ·½Ê½Á¬½Ó£ºnone¡¢aes-128-cfb**|
-|´«ÊäĞ­Òé|ws|
-|Î±×°ÀàĞÍ|none|
-|Î±×°host|xxxx.workers.dev(CF Workers·´´úµØÖ·)</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|SNIµØÖ·|xxxx.workers.dev(CF Workers·´´úµØÖ·)</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|PathÂ·¾¶|/×Ô¶¨ÒåUUIDÂë-vless</br>/×Ô¶¨ÒåUUIDÂë-vmess</br>**×¢Òâ£ºÇ°ÓĞĞ±¸Ü/** |
-|Vmess¶îÍâid£¨alterid£©|0</br>Ä¬ÈÏÆôÓÃAEAD</br>**×¢Òâ£º´ËÑ¡Ïî½«ÓÚ2022.1.1Ö®ºó·ÏÆú²»ÓÃ£¬ÇëÊ¹ÓÃÕß¼°Ê±¸üĞÂ×îĞÂµÄ¿Í»§¶ËÒÔ½â¾ö´ËÎÊÌâ¡£½ö¶ÔÊ¹ÓÃXray-coreµÄÓÃ»§ÓĞÓ°Ïì¡£**|
-|µ×²ã´«Êä°²È«|tls|
-|Ìø¹ıÖ¤ÊéÑéÖ¤|false|
+|**ä»£ç†åè®®**|VLESS+ws+tls</br>Vmess+ws+tls|
+|æœåŠ¡å™¨åœ°å€|è‡ªé€‰ipï¼ˆå¦‚ï¼š`uicdn.cf`æˆ–`icook.tw`ï¼‰</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|ç«¯å£|443|
+|é»˜è®¤UUID|8f91b6a0-e8ee-11ea-adc1-0242ac120002</br>**æ³¨æ„ï¼šåŠ¡å¿…åˆ›å»ºæ—¶è‡ªå®šä¹‰UUIDç **|
+|åŠ å¯†|Vmess: Auto</br>VLESS: none</br>**æ³¨æ„ï¼šVmessé»˜è®¤ç¦æ­¢ä»¥ä¸‹åŠ å¯†æ–¹å¼è¿æ¥ï¼šnoneã€aes-128-cfb**|
+|ä¼ è¾“åè®®|ws|
+|ä¼ªè£…ç±»å‹|none|
+|ä¼ªè£…host|xxxx.workers.dev(CF Workersåä»£åœ°å€)</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|SNIåœ°å€|xxxx.workers.dev(CF Workersåä»£åœ°å€)</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|Pathè·¯å¾„|/è‡ªå®šä¹‰UUIDç -vless</br>/è‡ªå®šä¹‰UUIDç -vmess</br>**æ³¨æ„ï¼šå‰æœ‰æ–œæ /** |
+|Vmessé¢å¤–idï¼ˆalteridï¼‰|0</br>é»˜è®¤å¯ç”¨AEAD</br>**æ³¨æ„ï¼šæ­¤é€‰é¡¹å°†äº2022.1.1ä¹‹ååºŸå¼ƒä¸ç”¨ï¼Œè¯·ä½¿ç”¨è€…åŠæ—¶æ›´æ–°æœ€æ–°çš„å®¢æˆ·ç«¯ä»¥è§£å†³æ­¤é—®é¢˜ã€‚ä»…å¯¹ä½¿ç”¨Xray-coreçš„ç”¨æˆ·æœ‰å½±å“ã€‚**|
+|åº•å±‚ä¼ è¾“å®‰å…¨|tls|
+|è·³è¿‡è¯ä¹¦éªŒè¯|false|
 
-## 2£ºXray Trojan ws+tls
+## 2ï¼šXray Trojan ws+tls
 
-|**ÊôĞÔ**|**¶ÔÓ¦Öµ**|
+|**å±æ€§**|**å¯¹åº”å€¼**|
 |:------:|:-------:|
-|·şÎñÆ÷µØÖ·|×ÔÑ¡ip£¨Èç£º`uicdn.cf`»ò`icook.tw`£©</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|¶Ë¿Ú|443|
-|ÃÜÂë|8f91b6a0-e8ee-11ea-adc1-0242ac120002</br>**×¢Òâ£ºÎñ±Ø´´½¨Ê±×Ô¶¨ÒåUUIDÂë**|
-|´«ÊäĞ­Òé|ws|
-|PathÂ·¾¶|/×Ô¶¨ÒåUUIDÂë-trojan</br>**×¢Òâ£ºÇ°ÓĞĞ±¸Ü/**|
-|SNIµØÖ·|xxxx.workers.dev(CF Workers·´´úµØÖ·)</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|Î±×°host</br>TLS Host|xxxx.workers.dev(CF Workers·´´úµØÖ·)</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
+|æœåŠ¡å™¨åœ°å€|è‡ªé€‰ipï¼ˆå¦‚ï¼š`uicdn.cf`æˆ–`icook.tw`ï¼‰</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|ç«¯å£|443|
+|å¯†ç |8f91b6a0-e8ee-11ea-adc1-0242ac120002</br>**æ³¨æ„ï¼šåŠ¡å¿…åˆ›å»ºæ—¶è‡ªå®šä¹‰UUIDç **|
+|ä¼ è¾“åè®®|ws|
+|Pathè·¯å¾„|/è‡ªå®šä¹‰UUIDç -trojan</br>**æ³¨æ„ï¼šå‰æœ‰æ–œæ /**|
+|SNIåœ°å€|xxxx.workers.dev(CF Workersåä»£åœ°å€)</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|ä¼ªè£…host</br>TLS Host|xxxx.workers.dev(CF Workersåä»£åœ°å€)</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
 
-## 3£ºXray Shadowsocks ws+tls
+## 3ï¼šXray Shadowsocks ws+tls
 
-|**ÊôĞÔ**|**¶ÔÓ¦Öµ**|
+|**å±æ€§**|**å¯¹åº”å€¼**|
 |:------:|:-------:|
-|·şÎñÆ÷µØÖ·|×ÔÑ¡ip£¨Èç£º`uicdn.cf`»ò`icook.tw`£©</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|¶Ë¿Ú|443|
-|ÃÜÂë|8f91b6a0-e8ee-11ea-adc1-0242ac120002</br>**×¢Òâ£ºÎñ±Ø´´½¨Ê±×Ô¶¨ÒåUUIDÂë**|
-|¼ÓÃÜ·½Ê½|chacha20-ietf-poly1305</br>[µ÷Õû¼ÓÃÜ·½Ê½Çë²Î¿¼](https://www.v2fly.org/config/protocols/shadowsocks.html#%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E5%88%97%E8%A1%A8)|
-|´«ÊäĞ­Òé|ws|
-|Î±×°ÀàĞÍ|none|
-|Î±×°host</br>TLS Host|xxxx.workers.dev(CF Workers·´´úµØÖ·)</br>Ó¦ÓÃ³ÌĞòÃû.herokuapp.com|
-|PathÂ·¾¶|/×Ô¶¨ÒåUUIDÂë-ss</br>**×¢Òâ£ºÇ°ÓĞĞ±¸Ü/**|
-|**×¢ÒâÊÂÏî**|**1.¼ÓÃÜ·½Ê½Ñ¡Ïî½öÏŞÓĞ¾­ÑéµÄÓÃ»§µ÷Õû£¬Òòµ÷Õû´íÎóËù·¢ÉúµÄºó¹û±¾ÏîÄ¿²»³Ğµ£ÈÎºÎÔğÈÎ£¡**</br>**2.Ê¹ÓÃlean ledeµÄSSRPlus+/PasswallµÄÓÃ»§ÏÖ¿ÉÊ¹ÓÃXray/v2ray Shadowsocks ws+tlsÁ¬½Ó¡£**|
+|æœåŠ¡å™¨åœ°å€|è‡ªé€‰ipï¼ˆå¦‚ï¼š`uicdn.cf`æˆ–`icook.tw`ï¼‰</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|ç«¯å£|443|
+|å¯†ç |8f91b6a0-e8ee-11ea-adc1-0242ac120002</br>**æ³¨æ„ï¼šåŠ¡å¿…åˆ›å»ºæ—¶è‡ªå®šä¹‰UUIDç **|
+|åŠ å¯†æ–¹å¼|chacha20-ietf-poly1305</br>[è°ƒæ•´åŠ å¯†æ–¹å¼è¯·å‚è€ƒ](https://www.v2fly.org/config/protocols/shadowsocks.html#%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E5%88%97%E8%A1%A8)|
+|ä¼ è¾“åè®®|ws|
+|ä¼ªè£…ç±»å‹|none|
+|ä¼ªè£…host</br>TLS Host|xxxx.workers.dev(CF Workersåä»£åœ°å€)</br>åº”ç”¨ç¨‹åºå.herokuapp.com|
+|Pathè·¯å¾„|/è‡ªå®šä¹‰UUIDç -ss</br>**æ³¨æ„ï¼šå‰æœ‰æ–œæ /**|
+|**æ³¨æ„äº‹é¡¹**|**1.åŠ å¯†æ–¹å¼é€‰é¡¹ä»…é™æœ‰ç»éªŒçš„ç”¨æˆ·è°ƒæ•´ï¼Œå› è°ƒæ•´é”™è¯¯æ‰€å‘ç”Ÿçš„åæœæœ¬é¡¹ç›®ä¸æ‰¿æ‹…ä»»ä½•è´£ä»»ï¼**</br>**2.ä½¿ç”¨lean ledeçš„SSRPlus+/Passwallçš„ç”¨æˆ·ç°å¯ä½¿ç”¨Xray/v2ray Shadowsocks ws+tlsè¿æ¥ã€‚**|
 
-## 4£ºTrojan+ws+tls¿Í»§¶ËÖ§³Ö×´Ì¬£¨²»¶¨ÆÚ¸üĞÂ£©
+## 4ï¼šTrojan+ws+tlså®¢æˆ·ç«¯æ”¯æŒçŠ¶æ€ï¼ˆä¸å®šæœŸæ›´æ–°ï¼‰
 
-|¿Í»§¶Ë|ÊÇ·ñÖ§³ÖTrojan+ws+tls|
+|å®¢æˆ·ç«¯|æ˜¯å¦æ”¯æŒTrojan+ws+tls|
 |:----:|:------------------:|
-|2dust V2RayN</br>2dust V2RayNG|ÊÇ£¬ĞèÒªV2RayN4.26+»òV2RayNG×îĞÂ°æ±¾(Pre-release)</br>ĞèÒªµçÄÔ¶Ë.net framework 6.0¼°¸ü¸ß°æ±¾|
-|OpenWrt SSRPlus+|ÊÇ|
-|OpenWrt Passwall|ÊÇ£¬ĞèÒª×îĞÂ°æ±¾passwall|
+|2dust V2RayN</br>2dust V2RayNG|æ˜¯ï¼Œéœ€è¦V2RayN4.26+æˆ–V2RayNGæœ€æ–°ç‰ˆæœ¬(Pre-release)</br>éœ€è¦ç”µè„‘ç«¯.net framework 6.0åŠæ›´é«˜ç‰ˆæœ¬|
+|OpenWrt SSRPlus+|æ˜¯|
+|OpenWrt Passwall|æ˜¯ï¼Œéœ€è¦æœ€æ–°ç‰ˆæœ¬passwall|
 |~~QV2Ray~~|~~QV2Ray~~|
 
-## 5£ºCaddyÖ÷Ò³ÅäÖÃ
+## 5ï¼šCaddyä¸»é¡µé…ç½®
 
-# Caddyindexpage±äÁ¿ (»¶Ó­´óÀĞPull Requests)
+# Caddyindexpageå˜é‡ (æ¬¢è¿å¤§ä½¬Pull Requests)
 
-* ´ÓÒÔÏÂÁ´½ÓÖĞ¸´ÖÆÏ²»¶µÄÖ÷Ò³Á´½Óµ½CADDYIndexPage±äÁ¿ÖĞ
+* ä»ä»¥ä¸‹é“¾æ¥ä¸­å¤åˆ¶å–œæ¬¢çš„ä¸»é¡µé“¾æ¥åˆ°CADDYIndexPageå˜é‡ä¸­
 
-|#|µØÖ·|
+|#|åœ°å€|
 |:-:|:-:|
-| 1(Ä¬ÈÏ) | [»¶Ó­Ê¹ÓÃcaddyÒ³Ãæ](https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html) |
-| 2 | [3DCEListÔªËØÖÜÆÚ±í](https://github.com/wulabing/3DCEList/archive/master.zip) |
+| 1(é»˜è®¤) | [æ¬¢è¿ä½¿ç”¨caddyé¡µé¢](https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html) |
+| 2 | [3DCEListå…ƒç´ å‘¨æœŸè¡¨](https://github.com/wulabing/3DCEList/archive/master.zip) |
 | 3 | [Spotify-Landing-Page-Redesign](https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/archive/master.zip) |
 | 4 | [dev-landing-page](https://github.com/flexdinesh/dev-landing-page/archive/master.zip) |
 | 5 | [free-for-dev](https://github.com/ripienaar/free-for-dev/archive/master.zip) |
 | 6 | [tailwindtoolbox-Landing-Page](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip) |
 | 7 | [sandhikagalih/simple-landing-page](https://github.com/sandhikagalih/simple-landing-page/archive/master.zip) |
 | 8 | [StartBootstrap/startbootstrap-new-age](https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip) |
-| 9 | [mikutap Ò»¸öºÃÍæ´øÒôÀÖµÄÒ³Ãæ](https://github.com/AYJCSGM/mikutap/archive/master.zip) [ÑİÊ¾](https://aidn.jp/mikutap) |
-| 10 | [WebGLÁ÷ÌåÄ£Äâ](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip) [ÑİÊ¾](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) |
+| 9 | [mikutap ä¸€ä¸ªå¥½ç©å¸¦éŸ³ä¹çš„é¡µé¢](https://github.com/AYJCSGM/mikutap/archive/master.zip) [æ¼”ç¤º](https://aidn.jp/mikutap) |
+| 10 | [WebGLæµä½“æ¨¡æ‹Ÿ](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip) [æ¼”ç¤º](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) |
 | 11 | [loruki-website](https://github.com/bradtraversy/loruki-website/archive/master.zip) |
-| 12 | [bongo.catÒ»Ö»ÒôÀÖµÄÃ¨](https://github.com/Externalizable/bongo.cat/archive/master.zip) [ÑİÊ¾](https://bongo.cat/) |
+| 12 | [bongo.catä¸€åªéŸ³ä¹çš„çŒ«](https://github.com/Externalizable/bongo.cat/archive/master.zip) [æ¼”ç¤º](https://bongo.cat/) |
 
-### CloudFlare Workers·´´ú´úÂë£¨Ö§³ÖVLESS\VMESS\Trojan-GoµÄWSÄ£Ê½£¬¿É·Ö±ğÓÃÁ½¸öÕËºÅµÄÓ¦ÓÃ³ÌĞòÃû£¨UUIDÓëpath±£³ÖÒ»ÖÂ£©£¬µ¥Ë«ºÅÌì·Ö±ğÖ´ĞĞ£¬ÄÇÒ»¸öÔÂ¾ÍÓĞ550+550Ğ¡Ê±£©
+### CloudFlare Workersåä»£ä»£ç ï¼ˆæ”¯æŒVLESS\VMESS\Trojan-Goçš„WSæ¨¡å¼ï¼Œå¯åˆ†åˆ«ç”¨ä¸¤ä¸ªè´¦å·çš„åº”ç”¨ç¨‹åºåï¼ˆUUIDä¸pathä¿æŒä¸€è‡´ï¼‰ï¼Œå•åŒå·å¤©åˆ†åˆ«æ‰§è¡Œï¼Œé‚£ä¸€ä¸ªæœˆå°±æœ‰550+550å°æ—¶ï¼‰
 
-1.ÊÊÓÃµ¥Ò»Ó¦ÓÃµÄ·´´ú´úÂë
+1.é€‚ç”¨å•ä¸€åº”ç”¨çš„åä»£ä»£ç 
 
 ```
 addEventListener(
@@ -124,11 +124,11 @@ addEventListener(
 )
 ```
 
-2.ÊÊÓÃµ¥Ë«ÈÕÑ­»·Ö´ĞĞµÄ·´´ú´úÂë
+2.é€‚ç”¨å•åŒæ—¥å¾ªç¯æ‰§è¡Œçš„åä»£ä»£ç 
 
 ```
-const SingleDay = 'Ó¦ÓÃ³ÌĞòÃû1.herokuapp.com'
-const DoubleDay = 'Ó¦ÓÃ³ÌĞòÃû2.herokuapp.com'
+const SingleDay = 'åº”ç”¨ç¨‹åºå1.herokuapp.com'
+const DoubleDay = 'åº”ç”¨ç¨‹åºå2.herokuapp.com'
 addEventListener(
     "fetch",event => {
     
@@ -149,7 +149,7 @@ addEventListener(
 )
 ```
 
-3.ÊÊÓÃ¶àÊµÀıÑ­»·Ö´ĞĞµÄ·´´ú´úÂë
+3.é€‚ç”¨å¤šå®ä¾‹å¾ªç¯æ‰§è¡Œçš„åä»£ä»£ç 
 
 ```
 const Day0 = 'app0.herokuapp.com'
@@ -186,9 +186,9 @@ addEventListener(
 )
 ```
 
-### Ô­×÷ÕßÏîÄ¿µØÖ·£ºhttps://github.com/mixool/xrayku
+### åŸä½œè€…é¡¹ç›®åœ°å€ï¼šhttps://github.com/mixool/xrayku
 
-# ÃùĞ»
+# é¸£è°¢
 
 - [Xrayku](https://github.com/mixool/xrayku)
 - [Project V](https://github.com/v2fly/v2ray-core.git)
